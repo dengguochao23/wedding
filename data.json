@@ -1,0 +1,18 @@
+{
+  "musics": [
+    {
+      "singer": "周杰伦",
+      "img": "http://img1.kuwo.cn/star/albumcover/120/64/39/3540704654.jpg",
+      "song": "告白气球",
+      "duration": 215,
+      "src": "./mp3/周杰伦 - 告白气球.mp3"
+    },
+    {
+      "singer": "陈奕迅",
+      "song": "幸福摩天轮",
+      "img": "http://img1.kwcdn.kuwo.cn/star/albumcover/240/90/98/1592178.jpg",
+      "duration": 257,
+      "src": "./mp3/陈奕迅 - 幸福摩天輪.mp3"
+    }
+  ]
+}
